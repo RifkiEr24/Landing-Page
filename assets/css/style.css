@@ -1,0 +1,15 @@
+.background1{
+	background-image: linear-gradient(-159deg,#ffc947, #ff9800	);
+	height: 100vh;
+}
+
+.background2{
+	background-image: linear-gradient(-159deg,#63a4ff,#004ba0);
+	height: 100vh;
+}
+.os{
+	font-family: "Open sans";
+}
+.roboto{
+		font-family: Roboto-Thin;
+}
